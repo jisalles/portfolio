@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Meu Portfólio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Seu Nome Aqui</h1>
+    <img src="foto.jpg" width="150">
+    <h2>Sobre mim</h2>
+    <p>Sou estudante do 3º ano de Desenvolvimento de Sistemas.</p>
+
+    <h2>Minhas Habilidades</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+    </ul>
+
+    <h2>Projetos</h2>
+    <p>Em breve adicionarei meus projetos aqui!</p>
+
+</body>
+</html>
